@@ -22,7 +22,7 @@ profile:
 
 Institute of Optical Imaging Engineering, Zhejiang University 
 <br />Master Candidate of Optical Engineering
-<br />Research interest: Image Processing
+<br />Research interest: Image Processing, Deep Learning
 <br />[Github](https://github.com/OpticSunHz) | [Bilibili](https://space.bilibili.com/470541885?spm_id_from=333.999.0.0) | [Wechat](https://github.com/OpticSunHz/OpticSunHz.github.io/blob/21b04e071cd0e6ae6c0a5d61b4027315c5d660c2/assets/img/wechat.jpg)
 
 I graduated from Tianjin University in China in June 2023, with a bachelor's degree in Optoelectronic Information Science and Engineering and a bachelor's degree in Engineering Management.

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: **Huaze** Sun
+title: Huaze Sun
 permalink: /
 subtitle: <a href='#'>ImagingLab@ZJU</a> (The page of our lab is under construction, sry)
 

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: **Huaze** Sun
+title: Huaze Sun
 permalink: /
 subtitle: <a href='#'>22330038@zju.edu.cn</a>
 

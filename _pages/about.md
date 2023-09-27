@@ -1,17 +1,17 @@
 ---
 layout: about
-title: **Huaze** Sun
+title: about
 permalink: /
-subtitle: <a href='#'>22330038@zju.edu.cn</a>. 
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Telephone 15504950436</p>
-    <p>Address Zhejiang University</p>
-    <p>City Hangzhou China</p>
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
